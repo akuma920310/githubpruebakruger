@@ -25,3 +25,26 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Se creo el proyecto bajo Angular 12 y Nojo js.
+
+Se crearon 3 vistas
+
+Login, Empleado, Administrador
+
+http://localhost:4200/login
+http://localhost:4200/administrador
+http://localhost:4200/empleado
+
+En la vista de administrador se Registrar la siguiente información del empleado.
+○ Cédula.
+○ Nombres.
+○ Apellidos.
+○ Correo electrónico.
+b. Los campos deben contener validaciones de acuerdo al tipo de dato:
+○ Todos los campos son requeridos.
+○ Cédula válida. (Incluir un valor numérico y único de 10 dígitos)
+○ Correo electrónico válido.
+○ Nombres y apellidos no deben contener números o caracteres especiales.
+c. Al dar de alta un empleado se debe generar un usuario y contraseña para el empleado.
+ 

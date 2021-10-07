@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "cedula": "12356789",
+      "firsName": "Gerardo",
+      "lastName": "Anaya",
+      "email": "gerardoanaya@test.com"
+    },
+    {
+      "id": 2,
+      "cedula": "56778965",
+      "firsName": "Pedro Juan",
+      "lastName": "Bukele Castro",
+      "email": "pedrobukele@test.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
